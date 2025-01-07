@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-    const token = 'df1d17b77aab0101c655ad17e8e7e22c';
+    const token = '08e45cd8de7f7dd0fafe0a85b9d2c46a';
     const authToken = 'your_auth_token'; // استبدل بالتوكن الخاص بك
 
     document.getElementById('smsForm').addEventListener('submit', async function(event) {
